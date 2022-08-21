@@ -1,6 +1,7 @@
 # MyApp
 The final project of PentaValue internship consists of
 Splash screen of the company logo for 5 seconds
+
 4 Tabs
 1) 1v1 TicTacToe game
 2) ToDo app with the ability to add,check completed,relocate tasks and remove tasks
